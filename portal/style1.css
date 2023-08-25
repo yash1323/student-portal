@@ -1,0 +1,59 @@
+
+
+
+/*===============================
+Footer CSS
+=================================*/
+footer {
+    background-color: #CFCBCA;
+    padding: 50px 0;
+}
+
+.widget p {
+    color: #333;
+    margin-right: 20px;
+    margin-top: 20px;
+    line-height: 1.8;
+}
+
+footer h3 {
+    color: #563D7C;
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.footer-menu ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.footer-menu li {
+    display: block;
+}
+
+.footer-menu ul li a {
+    color: #333;
+    text-transform: capitalize;
+    margin-bottom: 10px;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.copy-right {
+    border-top: 1px solid #999;
+    width: 100%;
+    text-align: center;
+    padding-top: 6px;
+    margin-top: 15px;
+    color: #555;
+}
+
+.content-area {
+    padding-bottom: 30px;
+}
+
+div#padding {
+    padding: 0 60px;
+}
